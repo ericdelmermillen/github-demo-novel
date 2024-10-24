@@ -1,3 +1,5 @@
 chapter 1
 --blah
 --more text next day
+--new point
+--test of commit without -m
