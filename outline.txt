@@ -3,3 +3,4 @@ Chapter 1
 --more notes written later
 --lower case j
 --newer text
+--added more
