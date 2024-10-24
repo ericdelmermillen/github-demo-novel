@@ -1,6 +1,8 @@
 Chapter 1
 --some notes
 --more notes written later
+
+Chapter 2
 --lower case j
 --newer text
 --added more
