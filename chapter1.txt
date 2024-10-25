@@ -4,3 +4,4 @@ chapter 1
 --new point
 --test of commit without -m
 --2nd test of commit without -m
+--Myrtle and George
